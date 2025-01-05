@@ -19,8 +19,12 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a research scientist in Shanghai AI Laboratory. His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a research scientist in Shanghai AI Laboratory. His work has led to many awards, including <b>Shanghai Rising Star</b>under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+  </div>
+</div>
 
+<div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
+  <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
 He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, T-PAMI, TIP, T-MM, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, and ICML. Professionally, he led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 10k stars. Additionally, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, scientific research surveys, mathematical reasoning, and autonomous driving.
   </div>
 </div>
@@ -167,6 +171,7 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 
 
 # 💬 Invited Talks
+- *2024.07*, Invited talk of **Multimodal Large Model Summit**. [[Video]](https://conf.csig.org.cn/6594/202407/44775.html)
 - *2023.09*, Invited talk of **Effcient Pre-training of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1Sh4y1h7JK/?spm_id_from=333.337.search-card.all.click&vd_source=6efc9ee7fe0b74418e81b9b883e2a403)
 - *2023.07*, Invited talk of **Towards 3D General Representation** at Techbeat. [[Video]](https://www.techbeat.net/talk-info?id=795)
 - *2023.03*, Invited talk of **Transferable Pwerception of Autonomous Driving**. [[Video]](rom=333.337.search-card.all.click&vd_source=6efc9ee7fe0b74418e81b9b883e2a403)
