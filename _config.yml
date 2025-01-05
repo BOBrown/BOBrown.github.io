@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiakang Yuan <br> (袁家康)"
-description              : "Ph.D. Candidate"
+title                    : "Bo Zhang <br> (张铂)"
+description              : "Research Scientist"
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiakang Yuan <br> (袁家康)"
+  name             : "Bo Zhang <br> (张铂)"
   avatar           : "images/personal.jpg"
-  bio              : "Fudan University"
+  bio              : "Shanghai AI Laboratory"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cypFd-gAAAAJ&hl=zh-CN"
-  email            : "jkyuan112@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=UoAEwT0AAAAJ&hl=zh-CN"
+  email            : "bo.zhangzx@gmail.com"
+  researchgate     : "https://openreview.net/profile?id=~Bo_Zhang17"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "BOBrown"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/36/2259-69.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8052-782X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

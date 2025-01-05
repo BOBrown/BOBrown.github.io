@@ -19,20 +19,30 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  I am current a third-year Ph.D. student (Sep. 2022 - Jun. 2027, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. <a hred="https://bobrown.github.io/boZhang.github.io/">Bo Zhang</a> from Shanghai AI Lab. Before this, I obtained my Bachelor’s degree in Electronic Engineering also from Fudan University (Sep. 2018 - Jun. 2022). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception, transfer learning, multi-modal LLM. My research pursues to develop vision-language systems that possess the capacity to comprehend, reason, and envision the physical world and explore using AI for scientific discovery. 
+Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a research scientist in Shanghai AI Laboratory. His work has led to many awards, including **Shanghai Rising Star** under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+
+He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, T-PAMI, TIP, T-MM, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, and ICML. Professionally, he led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 10k stars. Additionally, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, scientific research surveys, mathematical reasoning, and autonomous driving.
   </div>
 </div>
 
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
-
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One papers (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 I recieve the <font color="red">national scholarship</font>. </p>
-  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Two papers (AdaptiveDiffusion and 3DET-Mamba) are accepted by <font color="red">NeurIPS 2024</font>. One is about training-free acceleration of diffusion model, another is about mamba architecture in 3D detection.</p>
+**2024:**
+  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 Grateful for the heartfelt recognition and thoughtful sharing of my research work <font color="red">[Fudan_CYL](https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ) and [Fudan_SIST](https://mp.weixin.qq.com/s/7Uka2AwZEqsGIp_5mDu6-A)</font>.</p>
+  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <font color="red">[MinerU](https://arxiv.org/abs/2409.18839)</font>, an open-source solution for high-precision document content extraction, has been published. </p>
+  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Three papers ([AdaptiveDiffusion](https://arxiv.org/abs/2410.09873), [ZOPP](https://arxiv.org/abs/2411.05311), [LeapAD](https://arxiv.org/abs/2405.15324) <font color="red">NeurIPS 2024</font>.</p>
+  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. <font color="red"> [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm)</font> has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.</p>
+  - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 Bo Zhang was invited to serve as a PC member of <font color="red">AAAI 2025</font>.</p>
+  - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 We open-sourced Table Structural Extraction Model <font color="red">[Models](https://huggingface.co/U4R/StructTable-base) and [StructEqTable-Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy)</font>.It is a open-source repository to support the structuring tasks of visual tables.</p>
+  - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 We collaborated with the OpenDataLab team to open-source the <font color="red">[PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit?tab=readme-ov-file)</font>. It can extract high-quality and structured content from PDFs and has gained **6K+** stars.</p>
   - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
+  - <p style='text-align:justify'><i>2024.03</i>: &nbsp;🎉🎉 One paper is accepted by <font color="red">ACL 2024</font>. We propose All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.</p>
+  - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (Once for Both) is accepted by <font color="red">CVPR 2024</font>. Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression.</p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
-  - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 One Paper (AD-PT) is accepted by <font color="red">NeurIPS 2023</font>.We explore 3D pre-training pipeline to obtain backbones with strong generalization capability.</p>
+  - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 Two papers ([IPNet](https://ieeexplore.ieee.org/abstract/document/10516600) and [MVNet](https://ieeexplore.ieee.org/abstract/document/10360874)) are accepted by <font color="red">TCSVT</font>. </p>
+
+**2023:**
   - <p style='text-align:justify'><i>2023.02</i>: &nbsp;🎉🎉 Two Papers (Bi3D and Uni3D) are accepted by <font color="red">CVPR 2023</font>. One is about active domain adaptation for 3D object detection, another is about multi-dataset training for 3d object detection.</p>
   - <p style='text-align:justify'><i>2022.07</i>: &nbsp;🎉🎉 One Paper (HelixFormer) is accepted by <font color="red">ACM'MM 2022</font>. We explore Transformer architecture on few-shot fine-grained classification task.</p>
 
@@ -154,26 +164,25 @@ Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen,
 
 <div style='margin-top: 30pt'></div>
 
-# 📖 Educations
-- *2022.09 - Now*, Ph.D. Candidate, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
-- *2018.06 - 2022.06*, Bachelor Degree, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
 
-<div style='margin-top: 30pt'></div>
 
 # 💬 Invited Talks
-- *2023.09*, Invited talk of **Effcient Pre-training of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1e8411C7ZK/?spm_id_from=333.337.search-card.all.click&vd_source=478510f65af6875433547b21fe148987)
+- *2023.09*, Invited talk of **Effcient Pre-training of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1Sh4y1h7JK/?spm_id_from=333.337.search-card.all.click&vd_source=6efc9ee7fe0b74418e81b9b883e2a403)
 - *2023.07*, Invited talk of **Towards 3D General Representation** at Techbeat. [[Video]](https://www.techbeat.net/talk-info?id=795)
-- *2023.03*, Invited talk of **Transferable of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1Vo4y1b7pS/?spm_id_from=333.337.search-card.all.click)
+- *2023.03*, Invited talk of **Transferable Pwerception of Autonomous Driving**. [[Video]](rom=333.337.search-card.all.click&vd_source=6efc9ee7fe0b74418e81b9b883e2a403)
 
 <div style='margin-top: 30pt'></div>
 
 # 💻 Internships
 
-- *2024.10 - Now*, [Shanghai AI Laboratory](), China.
-- *2022.08 - 2024.02*, [Shanghai AI Laboratory](), China.
+- *2021.12 - 2022.06*, [Shanghai AI Laboratory](), China.
 
 <div style='margin-top: 30pt'></div>
 
-# 📝 Academic Services
+# 📝 Collaborators
 
-- Reviewer of CVPR, ICML, ICLR, ECCV, T-CSVT, T-MM.
+- <a href="https://thinklab.sjtu.edu.cn/">ReThinkLab</a>
+- <a href="http://leibai.site/">Lei Bai</a>
+- <a href="https://gaopengcuhk.github.io/">Peng Gao</a>
+- <a href="https://www.rjchen.site/">Runjian Chen</a>
+- <a href="https://xyue.io/">Xiangyu Yue</a>
