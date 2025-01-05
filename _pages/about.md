@@ -19,13 +19,13 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a research scientist in Shanghai AI Laboratory. His work has led to many awards, including <b>Shanghai Rising Star</b>under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
+Bo Zhang received the Ph.D. degree in electronic engineering from the School of Information Science and Technology, Fudan University. He is currently a research scientist in Shanghai AI Laboratory. His work has led to many awards, including <b>Shanghai Rising Star</b> under Grant No. 23QD1401000, awarded by the Shanghai Municipal Commission of Science and Technology, the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. His research outcomes have some impacts on industrial applications like airport checkpoint security perceptual recognition and localization of concealed or dangerous objects. 
   </div>
 </div>
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-He has published 30+ papers in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, T-PAMI, TIP, T-MM, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, and ICML. Professionally, he led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 10k stars. Additionally, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, scientific research surveys, mathematical reasoning, and autonomous driving.
+He has published <b>30+ papers</b> in top-tier international conferences and journals such as CVPR, NeurIPS, ICLR, T-PAMI, TIP, T-MM, and IJCV. He also serves as a reviewer for several prestigious academic conferences and journals, including CVPR, ECCV, ICCV, ICLR, and ICML. Professionally, he led the development of the 3DTrans general scene representation open-source project, which won the Waymo Challenge international competition and accumulated over 1.5k stars. Besides, he is committed to promoting the rapid application of multi-modal large language models in various scenarios, such as scientific document understanding, scientific research surveys, mathematical reasoning, and autonomous driving.
   </div>
 </div>
 
@@ -33,7 +33,7 @@ He has published 30+ papers in top-tier international conferences and journals s
 
 # 🔥 News
 **2024:**
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 Grateful for the heartfelt recognition and thoughtful sharing of my research work <font color="red">[Fudan_CYL](https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ) and [Fudan_SIST](https://mp.weixin.qq.com/s/7Uka2AwZEqsGIp_5mDu6-A)</font>.</p>
+  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 Grateful for the heartfelt recognition and thoughtful sharing of my research work <font color="red"> <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/7Uka2AwZEqsGIp_5mDu6-A/">Fudan_SIST</a> </font>.</p>
   - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <font color="red">[MinerU](https://arxiv.org/abs/2409.18839)</font>, an open-source solution for high-precision document content extraction, has been published. </p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Three papers ([AdaptiveDiffusion](https://arxiv.org/abs/2410.09873), [ZOPP](https://arxiv.org/abs/2411.05311), [LeapAD](https://arxiv.org/abs/2405.15324) <font color="red">NeurIPS 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. <font color="red"> [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm)</font> has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.</p>
