@@ -33,8 +33,8 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 
 # 🔥 News
 **2024:**
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 Grateful for the heartfelt recognition and thoughtful sharing of my research work <font color="red"> <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/7Uka2AwZEqsGIp_5mDu6-A/">Fudan_SIST</a> </font>.</p>
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <font color="red">[MinerU](https://arxiv.org/abs/2409.18839)</font>, an open-source solution for high-precision document content extraction, has been published. </p>
+  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 Grateful for the heartfelt recognition and thoughtful sharing of <font color="red"> my research work </font> <a href="https://mp.weixin.qq.com/s/KVAI0Q7spu6yot-6oQOewQ/">Fudan_CYL</a> and <a href="https://mp.weixin.qq.com/s/7Uka2AwZEqsGIp_5mDu6-A/">Fudan_SIST</a> .</p>
+  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 The technical report for <font color="red"> <a href="https://arxiv.org/abs/2409.18839/">MinerU</a> </font>, an open-source solution for high-precision document content extraction, has been published. </p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Three papers ([AdaptiveDiffusion](https://arxiv.org/abs/2410.09873), [ZOPP](https://arxiv.org/abs/2411.05311), [LeapAD](https://arxiv.org/abs/2405.15324) <font color="red">NeurIPS 2024</font>.</p>
   - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Previous evaluation metrics for Formula and Table Recognition tasks, such as BLEU and Edit Distrance, exhibit limitations. <font color="red"> [CDM](https://github.com/opendatalab/UniMERNet/tree/main/cdm)</font> has been released to ensure the evaluation objectivity by designing an image-level rather than LaTex-level metric score for Formula and Table Recognition evaluation.</p>
   - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 Bo Zhang was invited to serve as a PC member of <font color="red">AAAI 2025</font>.</p>
