@@ -50,7 +50,7 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 **2023:**
   - <p style='text-align:justify'><i>2023.12</i>: &nbsp;🎉🎉 We have released the <a href="https://github.com/UniModal4Reasoning/ChartVLM?tab=readme-ov-file">ChartX benchmark</a>, covering 18 chart types, 7 chart tasks, 22 disciplinary topics to evaluate the chart-related capabilities of the existing MLLMS.</p>
   - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 StructChart: our research on visual chart, has been released <a href="https://arxiv.org/abs/2309.11268">arXiv paper</a>, where we will release the SimChart9K dataset powered by LLM. By the proposed SimChart9K, we observe that StructChart continuously improves the chart perception performance as more simulated charts are used for pre-training.</p>
-  - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 SPOT, showing a promising and <b>scalable</b> 3D pre-training on autonomous driving, has been released (See our paper for more details, a href="https://arxiv.org/abs/2309.10527">arXiv paper</a>).</p>
+  - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 SPOT, showing a promising and <b>scalable</b> 3D pre-training on autonomous driving, has been released (See our paper for more details, <a href="https://arxiv.org/abs/2309.10527">arXiv paper</a>).</p>
   - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 - One paper entitled “AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset” is accepted by <font color="red">NeurIPS-2023</font>.</p>
   - <p style='text-align:justify'><i>2023.07</i>: &nbsp;🎉🎉 One paper about cross-domain background-fouced alignment "Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors" is accepted by <font color="red">TIP</font>.</p>
   - <p style='text-align:justify'><i>2023.07</i>: &nbsp;🎉🎉 One paper entitled "SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification" is accepted by <font color="red">ACM MM-2023</font>.</p>
@@ -63,39 +63,51 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aiostereo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS</div><img src='images/internvl-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[All-in-One: Transferring Vision Foundation Models into Stereo Matching]()
+[How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821)
 
-Jingyi Zhou<sup>\*</sup>, Haoyu Zhang<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>, Peng Ye, Tao Chen, Hao Jiang, Meiya Chen, Yangyang Zhang
+Zhe Chen, Weiyun Wang, Hao Tian, Shenglong Ye, Zhangwei Gao, Erfei Cui, Wenwen Tong, Kongzhi Hu, Jiapeng Luo, Zheng Ma, Ji Ma, Jiaqi Wang, Xiaoyi Dong, Hang Yan, Hewei Guo, Conghui He, Botian Shi, Zhenjiang Jin, Chao Xu, Bin Wang, Xingjian Wei, Wei Li, Wenjian Zhang, **<u>Bo Zhang</u>**, Pinlong Cai, Licheng Wen, Xiangchao Yan, Min Dou, Lewei Lu, Xizhou Zhu, Tong Lu, Dahua Lin, Yu Qiao, Jifeng Dai, Wenhai Wang
 
-[[**Project**]]()[[**Paper**]]()
-- Propose AIOStereo to flexibly select and transfer knowledge from multiple heterogeneous VFMs to a single stereo matching model. (<font color="red">Rank 1st</font> on [Middlebury Stereo Evaluation](https://vision.middlebury.edu/stereo/eval3/)) 
+[[**Project**]](https://github.com/OpenGVLab/InternVL)[[**Paper**]](https://arxiv.org/abs/2404.16821)
+- Propose InternVL 1.5 and InternVL 2. (<font color="red">Rank 1st</font> among open-source VLM models on MMMU, DocVQA, ChartQA, and MathVista.) 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/adaptivediffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy]()
+[Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy](https://arxiv.org/abs/2410.09873)
 
-Hancheng Ye<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Renqiu Xia, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, Bo Zhang
+Hancheng Ye, Jiakang Yuan, Renqiu Xia, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, **<u>Bo Zhang^(corr.)</u>**
 
-[[**Project**]](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)[[**Paper**]]()
+[[**Project**]](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)[[**Paper**]](https://arxiv.org/abs/2410.09873)
 - Propose AdaptiveDiffusion to adaptively reduce the noise prediction steps during the denoising proces guided by the third-order latent difference. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/3detmamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/zopp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3DET-Mamba: State Space Model for End-to-End 3D Object Detection]()
+[ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving](https://arxiv.org/abs/2411.05311)
 
-Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Sijin Chen, Lin Zhang, Anyu Zhu, Xin Chen, Tao Chen
+Tao Ma, Hongbin Zhou, Qiusheng Huang, Xuemeng Yang, Jianfei Guo, **<u>Bo Zhang</u>**, Min Dou, Yu Qiao, Botian Shi, Hongsheng Li
 
-[[**Project**]]()[[**Paper**]]()
-- Exploit the potential of Mamba architecture on 3D scene-level perception for the first time.
+[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2411.05311)
+- ZOPP integrates the powerful zero-shot recognition capabilities of vision foundation models and 3D representations derived from point clouds.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/zopp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving](https://arxiv.org/abs/2405.15324)
+
+Jianbiao Mei, Yukai Ma, Xuemeng Yang, Licheng Wen, Xinyu Cai, Xin Li, Daocheng Fu, **<u>Bo Zhang</u>**, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yong Liu, Yu Qiao
+
+[[**Project**]](https://leapad-2024.github.io/LeapAD/)[[**Paper**]](https://arxiv.org/abs/2405.15324)
+- LeapAD incorporates an innovative dual-process decision-making module, which consists of an Analytic Process (System-II) for thorough analysis and reasoning, along with a Heuristic Process (System-I) for swift and empirical processing.
 </div>
 </div>
 
