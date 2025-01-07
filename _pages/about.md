@@ -43,7 +43,7 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
   - <p style='text-align:justify'><i>2024.08</i>: &nbsp;🎉🎉 We collaborated with the OpenDataLab team to open-source the <font color="red">PDF-Extract-Kit</font>. It can extract high-quality and structured content from PDFs and has gained <b>6K+</b> stars.</p>
   - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
   - <p style='text-align:justify'><i>2024.03</i>: &nbsp;🎉🎉 One paper is accepted by <font color="red">ACL 2024</font>. We propose All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.</p>
-  - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (Once for Both) is accepted by <font color="red">CVPR 2024</font>. Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression.</p>
+  - <p style='text-align:justify'><i>2024.02</i>: &nbsp;🎉🎉 One paper (Once for Both) is accepted by <font color="red">CVPR 2024</font>. Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression.</p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 Two papers (<a href="https://ieeexplore.ieee.org/abstract/document/10516600/">IPNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/10360874/">MVNet</a>) are accepted by <font color="red">TCSVT</font>. </p>
 
@@ -99,7 +99,7 @@ Tao Ma, Hongbin Zhou, Qiusheng Huang, Xuemeng Yang, Jianfei Guo, **<u>Bo Zhang</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/zopp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/leapad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving](https://arxiv.org/abs/2405.15324)
@@ -111,27 +111,54 @@ Jianbiao Mei, Yukai Ma, Xuemeng Yang, Licheng Wen, Xinyu Cai, Xin Li, Daocheng F
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/regtta3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ctl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reg-TTA3D: Better Regression Makes Better Test-time Adaptive 3D Object Detection]()
+[On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm](https://arxiv.org/abs/2402.03660)
 
-**<u>Jiakang Yuan</u>**, Bo Zhang, Kaixiong Gong, Xiangyu Yue, Botian Shi, Yu Qiao, Tao Chen
+Zhanpeng Zhou, Zijun Chen, Yilan Chen, **<u>Bo Zhang^(corr.)</u>**, Junchi Yan
 
-[[**Project**]]()[[**Paper**]]()
-- Explore a new task named test-time domain adaptive 3D object detection and propose a pseudo-label-based test-time adaptative 3D object detection method.
+[[**Project**]](https://github.com/zzp1012/Cross-Task-Linearity)[[**Paper**]](https://arxiv.org/abs/2402.03660)
+- We discover an intriguing linear phenomenon in models that are initialized from a common pretrained checkpoint and finetuned on different tasks, termed as Cross-Task Linearity (CTL).
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/once_for_both.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression](https://arxiv.org/abs/2403.15835)
+
+Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, **<u>Bo Zhang^(corr.)</u>**
+
+[[**Project**]](https://github.com/HankYe/Once-for-Both)[[**Paper**]](https://arxiv.org/abs/2403.15835)
+- We investigate how to integrate the evaluations of importance and sparsity scores into a single stage, searching the optimal subnets in an efficient manner.
+- We present OFB, a cost-efficient approach that simultaneously evaluates both importance and sparsity scores, termed Once for Both (OFB), for  Vision Transformer Compression (VTC) task.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/resimad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
 
-Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Donglin Yang, Jianfei Guo, Xiangchao Yan, Renqiu Xia, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao
+**<u>Bo Zhang</u>**, Xinyu Cai, Jiakang Yuan, Donglin Yang, Jianfei Guo, Xiangchao Yan, Renqiu Xia, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao
 
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2309.05527)
+[[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Paper**]](https://arxiv.org/abs/2309.05527)
 - Provide a new perspective and approach of alleviating the domain shifts, by proposing a Reconstruction-Simulation-Perception scheme.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/uni3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection](https://arxiv.org/abs/2303.06880)
+
+**<u>Bo Zhang</u>**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang Li, Yu Qiao
+
+[[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Paper**]](https://arxiv.org/abs/2303.06880)
+- Present a Uni3D which tackle multi-dataset 3D object detection from data-level and semantic-level.
 </div>
 </div>
 
@@ -140,9 +167,9 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Donglin 
 
 [AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612)
 
-**<u>Jiakang Yuan</u>**, Bo Zhang, Xiangchao Yan, Tao Chen, Botian Shi, Yikang Li, Yu Qiao
+Jiakang Yuan, **<u>Bo Zhang^(corr.)</u>**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang Li, Yu Qiao
 
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2306.00612)
+[[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Paper**]](https://arxiv.org/abs/2306.00612)
 - Build a large-scale pre-training point-cloud dataset with diverse data distribution, and meanwhile learn generalizable representations.
 </div>
 </div>
@@ -152,22 +179,34 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Donglin 
 
 [Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection](https://arxiv.org/abs/2303.05886)
 
-**<u>Jiakang Yuan</u>**, Bo Zhang, Xiangchao Yan, Tao Chen, Botian Shi, Yikang Li, Yu Qiao
+Jiakang Yuan, **<u>Bo Zhang^(corr.)</u>**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang Li, Yu Qiao
 
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2303.05886)
+[[**Project**]](https://github.com/PJLab-ADG/3DTrans)[[**Paper**]](https://arxiv.org/abs/2303.05886)
 - Propose a Bi-domain active learning approach which select samples from both source and target domain to solve the cross-domain 3D object detection task.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/uni3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/regtta3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection](https://arxiv.org/abs/2303.06880)
+[Reg-TTA3D: Better Regression Makes Better Test-time Adaptive 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12)
 
-Bo Zhang, **<u>Jiakang Yuan</u>**, Botian Shi, Tao Chen, Yikang Li, Yu Qiao
+Jiakang Yuan, **<u>Bo Zhang</u>**, Kaixiong Gong, Xiangyu Yue, Botian Shi, Yu Qiao, Tao Chen
 
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2303.06880)
-- Present a Uni3D which tackle multi-dataset 3D object detection from data-level and semantic-level.
+[[**Project**]]()[[**Paper**]](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12)
+- Explore a new task named test-time domain adaptive 3D object detection and propose a pseudo-label-based test-time adaptative 3D object detection method.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2023</div><img src='images/helixformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification](https://arxiv.org/abs/2305.09160)
+
+Siyuan Huang, **<u>Bo Zhang^(corr.)</u>**, Botian Shi, Peng Gao, Yikang Li, Hongsheng Li
+
+[[**Project**]](https://github.com/SiyuanHuang95/SUG)[[**Paper**]](https://arxiv.org/abs/2305.09160)
+- Propose a Single-dataset Unified Generalization (SUG) framework that only leverages a single source dataset to alleviate the unforeseen domain differences faced by a well-trained source model. .
 </div>
 </div>
 
@@ -176,7 +215,7 @@ Bo Zhang, **<u>Jiakang Yuan</u>**, Botian Shi, Tao Chen, Yikang Li, Yu Qiao
 
 [Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification](https://arxiv.org/abs/2207.00784)
 
-Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen, Jiayuan Fan, Botian Shi
+**<u>Bo Zhang</u>**, Jiakang Yuan, Baopu Li, Tao Chen, Jiayuan Fan, Botian Shi
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2207.00784)
 - Propose a Transformer-based double-helix model to achieve the cross-image object semantic relation mining in a bidirectional and symmetrical manner.
