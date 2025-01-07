@@ -198,7 +198,7 @@ Jiakang Yuan, **<u>Bo Zhang</u>**, Kaixiong Gong, Xiangyu Yue, Botian Shi, Yu Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2023</div><img src='images/PAGCP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2023</div><img src='images/sug.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification](https://arxiv.org/abs/2305.09160)
@@ -211,7 +211,7 @@ Siyuan Huang, **<u>Bo Zhang^(corr.)</u>**, Botian Shi, Peng Gao, Yikang Li, Hong
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/sample_centric.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/PAGCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Performance-aware Approximation of Global Channel Pruning for Multitask CNNs](https://arxiv.org/abs/2303.11923)
