@@ -61,7 +61,7 @@ He has published <b>30+ papers</b> in top-tier international conferences and jou
 
 <div style='margin-top: 30pt'></div>
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS</div><img src='images/internvl-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
