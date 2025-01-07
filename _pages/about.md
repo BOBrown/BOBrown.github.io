@@ -198,7 +198,7 @@ Jiakang Yuan, **<u>Bo Zhang</u>**, Kaixiong Gong, Xiangyu Yue, Botian Shi, Yu Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2023</div><img src='images/helixformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2023</div><img src='images/PAGCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification](https://arxiv.org/abs/2305.09160)
@@ -207,6 +207,32 @@ Siyuan Huang, **<u>Bo Zhang^(corr.)</u>**, Botian Shi, Peng Gao, Yikang Li, Hong
 
 [[**Project**]](https://github.com/SiyuanHuang95/SUG)[[**Paper**]](https://arxiv.org/abs/2305.09160)
 - Propose a Single-dataset Unified Generalization (SUG) framework that only leverages a single source dataset to alleviate the unforeseen domain differences faced by a well-trained source model. .
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/sample_centric.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Performance-aware Approximation of Global Channel Pruning for Multitask CNNs](https://arxiv.org/abs/2303.11923)
+
+Hancheng Ye, **<u>Bo Zhang</u>**, Tao Chen, Jiayuan Fan, Bin Wang
+
+[[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9729102)
+- We propose a Performance-Aware Global Channel Pruning (PAGCP) framework. We first theoretically present the objective for achieving superior GCP, by considering the joint saliency of filters from intra- and inter-layers.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/sample_centric.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sample-Centric Feature Generation for Semi-Supervised Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/9729102)
+
+**<u>Bo Zhang</u>**, Hancheng Ye, Gang Yu, Bin Wang, Yike Wu, Jiayuan Fan, Tao Chen
+
+[[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9729102)
+- Propose a sample-centric feature generation (SFG) approach for semi-supervised few-shot image classification.
 </div>
 </div>
 
